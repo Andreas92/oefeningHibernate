@@ -1,0 +1,7 @@
+[Mon Dec 01 13:33:51.869991 2014] [mpm_winnt:notice] [pid 5436:tid 388] AH00455: Apache/2.4.6 (Win32) PHP/5.4.17 configured -- resuming normal operations
+[Mon Dec 01 13:33:51.869991 2014] [mpm_winnt:notice] [pid 5436:tid 388] AH00456: Apache Lounge VC10 Server built: Jul 16 2013 11:15:41
+[Mon Dec 01 13:33:51.869991 2014] [core:notice] [pid 5436:tid 388] AH00094: Command line: 'F:\\Programmeren 4\\USBWebserver v8.6/apache2/bin/httpd_usbwv8.exe -d F:/Programmeren 4/USBWebserver v8.6/apache2'
+[Mon Dec 01 13:33:51.885590 2014] [mpm_winnt:notice] [pid 5436:tid 388] AH00418: Parent: Created child process 6016
+[Mon Dec 01 13:33:52.166370 2014] [mpm_winnt:notice] [pid 6016:tid 404] AH00354: Child: Starting 64 worker threads.
+[Mon Dec 01 13:42:12.908538 2014] [mpm_winnt:warn] [pid 6016:tid 1096] (OS 64)De opgegeven netwerknaam is niet langer beschikbaar.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Mon Dec 01 13:42:52.487165 2014] [mpm_winnt:warn] [pid 6016:tid 1096] (OS 64)De opgegeven netwerknaam is niet langer beschikbaar.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
